@@ -13,4 +13,4 @@ After installing Jupyter, you can start the notebook server by running `jupyter 
 Matplotlib, seaborn, pandas are required. Can be installed using requirements.txt with anaconda.
 
 ## Dataset
-Dataset can be downloaded from [Yelp Open Dataset website]([https://jupyter.org/install](https://www.yelp.com/dataset)https://www.yelp.com/dataset).
+Dataset can be downloaded from [Yelp Open Dataset website](https://jupyter.org/install](https://www.yelp.com/dataset)https://www.yelp.com/dataset).
